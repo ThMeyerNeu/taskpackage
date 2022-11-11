@@ -12,6 +12,7 @@ setup(
     author="ThMeyerNeu",
     author_email="<egor767680@gmial.com>",
     description=DESCRIPTION,
+    download_url="https://github.com/ThMeyerNeu/taskpackage",
     packages=find_packages(),
     install_requires=[],
     keywords=['python'],
