@@ -1,4 +1,11 @@
+TASK_PACKAGE (PyPi)
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Instructions
+
+    Install:
+
+pip install taskpackagelib
+
+    Generate an aesthetic ASCII visual:
+
+from taskpackagelib import Library.LibYes
