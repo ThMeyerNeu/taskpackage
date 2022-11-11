@@ -2,10 +2,6 @@ TASK_PACKAGE (PyPi)
 
 Instructions
 
-    Install:
+    Install: pip install taskpackagelib
+    Generate an aesthetic ASCII visual: from taskpackagelib import Library.LibYes
 
-pip install taskpackagelib
-
-    Generate an aesthetic ASCII visual:
-
-from taskpackagelib import Library.LibYes
