@@ -2,8 +2,8 @@ Task_package (PyPi)
 
 Instructions
 
-    Install: pip install taskpackagelib
+Install:
 
+    pip install taskpackagelib:
 
-    Generate : from taskpackagelib import Library.LibYes
-
+    
