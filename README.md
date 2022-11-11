@@ -2,6 +2,9 @@ TASK_PACKAGE (PyPi)
 
 Instructions
 
+PowerShell Install
     Install: pip install taskpackagelib
-    Generate an aesthetic ASCII visual: from taskpackagelib import Library.LibYes
+
+Generate
+    from taskpackagelib import Library.LibYes
 
