@@ -1,16 +1,10 @@
-VENV = venv
-PYTHON = (VENV)/bin/python3
-PIP = (VENV)/bin/pip
+target: setup.py
 
-run: $(VENV)/bin/activate
-	(PYTHON) main.py
+run: 
+	python -m build
 
+test:
+	python -m test
 
-(VENV)/bin/activate: setup.py
-	python3 -m venv (VENV)
-	(PIP) install -r setup.py
-
-
-clean:
-	rm -rf __pycache__
-	rm -rf (VENV)
+clear:
+	python -m clear __pycache__, venv

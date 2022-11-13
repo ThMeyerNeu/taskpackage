@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "Library_KRE_Meferko"
+name = "LibraryPractice"
 version = "0.0.1"
 authors = [
   { name="Meyer.oi", email="egorjigalow342@gmail.com" },
