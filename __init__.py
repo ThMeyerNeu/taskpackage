@@ -1,5 +1,1 @@
-
-from package1 import *
-from package2 import *
-from package3 import *
-
+from lib import __init__

@@ -1,46 +1,35 @@
-import package1
-import package2
-import package3
+import Task1 as t
+t.grade(12, 34, 12)
 
-# package1 Run
-a = package1.grade(12, 23, 43)
-print(a)
-
-b = package1.triangle(43,23,54)
-print(b)
- 
-c = package1.tax_salary(33)
-print(c)
-
-d = package1.math_fi_wi(12, 43, 65, 34, 32)
-print(d)
-
-e = package1.choice_month_if(10)
-print(e)
-
-
-#package2 Run
-
-f = package2.product_sum(12)
-print(f)
-
-g = package2.tabulation_x_y(1, 10)
-print(g)
-
-h = package2.table_of_measures(12, 32, 1)
-print(h)
-
-i = package2.infinite_number_a()
-print(i)
-
-j = package2.infinite_number_b()
-print(j)
-
-
-#package3 Run
-
-k = package3.complex_search()
-print(k)
-
-l = package3.company_calculations()
-print(l)
+# import Task2 as t2
+# t2.triangle([12, 43], [33, 21], [21, 10])
+#
+# import Task3_a as t3a
+# t3a.math_fi_wi(12, 32, 54, 12, 31)
+#
+# import Task3_b as t3b
+# t3b.tax_salary(1)
+# 
+# import Task4 as t4
+# t4.choice_month_if(1)
+# 
+# import Task5 as t5
+# t5.table_of_measures(12, 43, 1)
+# 
+# import Task6 as t6
+# t6.product_sum(1)
+# 
+# import Task7_a as t7a
+# t7a.infinite_number_a()
+# 
+# import Task7_b as t7b
+# t7b.infinite_number_b()
+# 
+# import  Task8 as t8
+# t8.tabulation_x_y(1, 10)
+# 
+# import Task9 as t9
+# t9.company_calculations()
+# 
+# import Task10 as t10
+# t10.complex_search()
