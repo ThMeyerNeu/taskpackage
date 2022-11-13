@@ -19,7 +19,6 @@ setup(
     classifiers=[
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
-        "Operating System :: Unix",
-        "Operating System :: Microsoft :: Windows",
+        "Operating System :: Linux",
     ]
 )
