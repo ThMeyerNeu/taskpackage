@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: LibraryPractice
+Version: 0.0.1
+Summary: Library with package for basic tasks
+Download-URL: https://github.com/ThMeyerNeu/taskpackage.git
+Author: ThMeyerNeu
+Author-email: "Meyer.oi" <egorjigalow342@gmail.com>
+License: BSD 3-Clause License
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Keywords: python
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Linux, Windows
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: pdf
+Provides-Extra: rest
+License-File: LICENSE.txt
+
+Makefile
+
+    make run
+
+Practices
+
+PyPi:
+install link
+
+    https://pypi.org/project/taskpackagelib/
